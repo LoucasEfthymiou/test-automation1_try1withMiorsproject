@@ -71,7 +71,7 @@
                 <version>2.19.1</version>
                 <configuration>
                     <includes>
-                        <include>**/features/**/When*.java</include>
+                        <include>**/features/steps/*.java</include>
                         <include>**/cucumber/junit/**/*.java</include>
                         <include>**/cucumber/junit/*.java</include>
                     </includes>
